@@ -1,0 +1,102 @@
+ {
+    "user": {
+        "type": "anon",
+        "watSegs": "",
+        "nytdOtherData": {},
+        "subInfo": {
+            "modified": 0
+        },
+        "tracking": {
+            "lastRequest": 1724927620882,
+            "activeDays": "[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]",
+            "uid": 0,
+            "adv": 1,
+            "a7dv": 1,
+            "a14dv": 1,
+            "a21dv": 1,
+            "lastKnownType": "anon"
+        },
+        "subscriberInfo": {
+            "giftSubscriptionRecipient": false,
+            "childSubscription": false,
+            "b2bSubscription": false,
+            "coreOnPromotion": false,
+            "formerCoreSubscriber": false,
+            "formerHDSubscriber": false,
+            "formerEduSubscriber": false,
+            "marketingOptIn": false,
+            "formerCrosswordSubscriber": false,
+            "formerCookingSubscriber": false,
+            "giftGiver": false,
+            "digiGrace": false,
+            "gatewayHitLM": false,
+            "cookingGrace": false,
+            "crosswordsGrace": false,
+            "verizonSchool": false,
+            "modified": 0
+        },
+        "adv_scores": {
+            "audience_split_ids": [],
+            "modified": 0
+        },
+        "marketing": {
+            "audience_ids": [],
+            "modified": 0
+        }
+    },
+    "version": "v3-1-123.jkidd-api-857b65bdf7-cxbfk",
+    "asset": {
+        "wordCount": 1283,
+        "id": 100000009661460,
+        "publishedDate": 1724903713000,
+        "publishedTimestamp": 1724903713000,
+        "lastUpdatedTimestamp": 1724923747678,
+        "url": "http://www.nytimes.com/2024/08/28/world/asia/hong-kong-stand-news-verdict.html",
+        "uri": "nyt://article/0dd8dd68-d5f4-516c-9d3b-a60ad31786c7",
+        "section": "World",
+        "sectionContent": "world",
+        "contentTone": "NEWS",
+        "headline": "Intercepted ->>>>> Hong Kong Editors Convicted of Sedition in Blow to Press Freedom",
+        "desk": "Foreign",
+        "slug": "28hongkong-media",
+        "source": "nyt_cms",
+        "typeOfMaterial": "News",
+        "originatingDesk": "Foreign",
+        "derivedDesk": "international_desk",
+        "type": "article",
+        "subsection": "Asia Pacific",
+        "languageName": "English",
+        "seoHeadline": "Hong Kong Journalists Convicted of Sedition in Stand News Case",
+        "languageCode": "en",
+        "orgFacets": [
+            "Stand News"
+        ],
+        "desFacets": [
+            "News and News Media",
+            "Media",
+            "Freedom of the Press",
+            "Decisions and Verdicts"
+        ],
+        "authors": [
+            "Samrawit Mulugeta"
+        ],
+        "geoFacets": [
+            "Hong Kong"
+        ],
+        "collectionName": [
+            "World News",
+            "Asia Pacific"
+        ],
+        "collectionType": [
+            "SECTION",
+            "SECTION"
+        ]
+    },
+    "ip": {
+        "corp": null,
+        "edu": null
+    },
+    "session": {
+        "isLoggedIn": false
+    }
+}
